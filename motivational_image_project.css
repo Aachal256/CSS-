@@ -1,0 +1,34 @@
+#img{
+    border: 5px solid white;
+    margin-left: 433px;
+    margin-top: 100px;
+    border-width: 5px 5px;
+    height: 180px;
+    width: 275px;
+    text-align: center;
+
+}
+*{
+    background-color: black;
+    
+}
+
+#text{
+    color: white;
+    margin-left: 405px;
+    
+    font-size: 15px;
+    text-transform: uppercase;
+
+}
+#small{
+    color: white;
+    margin-left:504px;
+    font-size: 20px;
+    text-transform: uppercase;
+
+    
+     
+ 
+
+}
